@@ -12,7 +12,9 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
@@ -67,6 +69,29 @@
     "typescript": "^5.5.0",
     "vitest": "^3.0.0",
     "zod": "^3.23.0"
+  },
+  "keywords": [
+    "nestjs",
+    "apcore",
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "ai-tools",
+    "llm",
+    "openai",
+    "tool-calling",
+    "nestjs-module",
+    "decorator",
+    "typescript"
+  ],
+  "author": "aipartnerup",
+  "homepage": "https://github.com/aipartnerup/nestjs-apcore#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aipartnerup/nestjs-apcore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aipartnerup/nestjs-apcore/issues"
   },
   "license": "Apache-2.0",
   "apdev": {
